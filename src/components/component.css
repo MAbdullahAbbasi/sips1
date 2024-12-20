@@ -1,0 +1,12 @@
+.card-image{
+    height: 270px !important;
+}
+
+.btn-close-white:before {
+    /* background: rgba(255, 255, 255, 0.08); */
+    /* color: white; */
+    background: black !important;
+    color: white;
+    margin-left: -18px !important;
+    margin-top: -13px;
+}
